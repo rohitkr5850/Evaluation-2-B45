@@ -18,4 +18,4 @@ This Node.js project simulates a real time file processing system where :
 
 ```bash
 npm install
-node index.js
+node start.js
